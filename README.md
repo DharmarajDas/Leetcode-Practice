@@ -17,14 +17,6 @@ I upload code regularly to keep track of my learning and problem-solving journey
 
 ---
 
-## 📂 Project Structure
-
-Leetcode-Practice/
-├── TwoSum.java
-└── README.md
-
----
-
 ## ✅ Goals
 - Solve at least **1 problem daily**  
 - Write clean and optimized solutions
