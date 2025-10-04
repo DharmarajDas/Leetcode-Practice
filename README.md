@@ -15,6 +15,7 @@ I upload code regularly to keep track of my learning and problem-solving journey
 |------------|---------------------------------|------------|----------|------------------------------------------------|--------------|
 | 2025-10-02 | Two Sum                         | Easy       | Java     | [TwoSum.java](TwoSum.java)                     | [LeetCode](https://leetcode.com/problems/two-sum/) |
 | 2025-10-03 | Best Time to Buy and Sell Stock | Easy       | Java     | [BestTimeToBuyAndSellStock.java](BestTimeToBuyAndSellStock.java) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| 2025-10-04 | Remove Element                  | Easy       | Java     | [RemoveElement.java](RemoveElement.java)       | [LeetCode](https://leetcode.com/problems/remove-element/) |
 
 ---
 
