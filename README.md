@@ -17,9 +17,10 @@ I upload code regularly to keep track of my learning and problem-solving journey
 | 2025-10-03 | Best Time to Buy and Sell Stock | Easy       | Java     | [BestTimeToBuyAndSellStock.java](BestTimeToBuyAndSellStock.java) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | 2025-10-04 | Remove Element                  | Easy       | Java     | [RemoveElement.java](RemoveElement.java)       | [LeetCode](https://leetcode.com/problems/remove-element/) |
 | 2025-10-05 | Plus One                        | Easy       | Java     | [PlusOne.java](PlusOne.java)                   | [LeetCode](https://leetcode.com/problems/plus-one/) |
-| 2025-10-06  | Remove Duplicates from Sorted Array  | Easy        | Java      | [RemoveDuplicatesFromSortedArray.java](src/RemoveDuplicatesFromSortedArray.java) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
-| 2025-10-07  | Merge Sorted Array                   | Easy        | Java      | [MergeSortedArray.java](src/MergeSortedArray.java) | [LeetCode](https://leetcode.com/problems/merge-sorted-array/) |
-| 2025-10-08  | Single Number                      | Easy        | Java      | [SingleNumber.java](src/SingleNumber.java)     | [LeetCode](https://leetcode.com/problems/single-number/) |
+| 2025-10-06  | Remove Duplicates from Sorted Array  | Easy        | Java      | [RemoveDuplicatesFromSortedArray.java](RemoveDuplicatesFromSortedArray.java) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| 2025-10-07  | Merge Sorted Array                   | Easy        | Java      | [MergeSortedArray.java](MergeSortedArray.java) | [LeetCode](https://leetcode.com/problems/merge-sorted-array/) |
+| 2025-10-08  | Single Number                      | Easy        | Java      | [SingleNumber.java](SingleNumber.java)     | [LeetCode](https://leetcode.com/problems/single-number/) |
+| 2025-10-09 | Majority Element             | Easy        | Java      | [MajorityElement.java](MajorityElement.java) | [LeetCode](https://leetcode.com/problems/majority-element/) |
 
 
 ---
