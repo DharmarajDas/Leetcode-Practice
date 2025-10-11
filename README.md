@@ -22,7 +22,7 @@ I upload code regularly to keep track of my learning and problem-solving journey
 | 2025-10-08  | Single Number                      | Easy        | Java      | [SingleNumber.java](SingleNumber.java)     | [LeetCode](https://leetcode.com/problems/single-number/) |
 | 2025-10-09 | Majority Element             | Easy        | Java      | [MajorityElement.java](MajorityElement.java) | [LeetCode](https://leetcode.com/problems/majority-element/) |
 | 2025-10-10 | Contains Duplicate               | Easy        | Java      | [ContainsDuplicate.java](ContainsDuplicate.java) | [LeetCode](https://leetcode.com/problems/contains-duplicate/) |
-| 2025-10-11 | Missing Number                   | Easy        | Java      | [MissingNumber.java](src/MissingNumber.java)   | [LeetCode](https://leetcode.com/problems/missing-number/) |
+| 2025-10-11 | Missing Number                   | Easy        | Java      | [MissingNumber.java](MissingNumber.java)   | [LeetCode](https://leetcode.com/problems/missing-number/) |
 
 
 ---
