@@ -24,6 +24,7 @@ I upload code regularly to keep track of my learning and problem-solving journey
 | 2025-10-10 | Contains Duplicate               | Easy        | Java      | [ContainsDuplicate.java](ContainsDuplicate.java) | [LeetCode](https://leetcode.com/problems/contains-duplicate/) |
 | 2025-10-11 | Missing Number                   | Easy        | Java      | [MissingNumber.java](MissingNumber.java)   | [LeetCode](https://leetcode.com/problems/missing-number/) |
 | 2025-10-12 | Move Zeroes                   | Easy        | Java      | [MoveZeroes.java](MoveZeroes.java)   | [LeetCode](https://leetcode.com/problems/move-zeroes/) |
+| 2025-10-13 | Intersection of Two Arrays       | Easy        | Java      | [IntersectionOfTwoArrays.java](IntersectionOfTwoArrays.java) | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/) |
 
 
 ---
